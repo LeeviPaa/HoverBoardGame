@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grid_Board_Demo.CSharp", "Grid_Board_Demo.CSharp.csproj", "{9A9BE3A3-A9C5-B56D-C930-EB4479B68ABF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grid_Board_Demo.CSharp.Editor", "Grid_Board_Demo.CSharp.Editor.csproj", "{C3B20039-E4CD-1935-7567-0C15FEEBE59A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A9BE3A3-A9C5-B56D-C930-EB4479B68ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A9BE3A3-A9C5-B56D-C930-EB4479B68ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A9BE3A3-A9C5-B56D-C930-EB4479B68ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A9BE3A3-A9C5-B56D-C930-EB4479B68ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3B20039-E4CD-1935-7567-0C15FEEBE59A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B20039-E4CD-1935-7567-0C15FEEBE59A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B20039-E4CD-1935-7567-0C15FEEBE59A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B20039-E4CD-1935-7567-0C15FEEBE59A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
